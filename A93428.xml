@@ -1,0 +1,269 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ravenous beast discovered and the devourer pursued in a short account truly stated for the unjust proceedings and cruel dealings by Dove Williamson, priest of Elton in the county of Nottingham, against William Claytor of the same town / [by] William Smith.</title>
+            <author>Smith, William, d. 1673.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93428</idno>
+            <idno type="STC">Wing S4324</idno>
+            <idno type="STC">ESTC R43763</idno>
+            <idno type="EEBO-CITATION">42475210</idno>
+            <idno type="OCLC">ocm 42475210</idno>
+            <idno type="VID">151362</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93428)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 151362)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2256:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ravenous beast discovered and the devourer pursued in a short account truly stated for the unjust proceedings and cruel dealings by Dove Williamson, priest of Elton in the county of Nottingham, against William Claytor of the same town / [by] William Smith.</title>
+                  <author>Smith, William, d. 1673.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Friends' Library (London, England)</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Persecutions.</term>
+               <term>Persecution --  England.</term>
+               <term>Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:151362:1"/>
+            <head>The Revenous Beaſt Diſcovered,
+AND THE
+Devourer Purſued.</head>
+            <head>In a Short Account truly ſtated of the unjuſt Proceedings and Cruel dealings by Dove Williamſon Prieſt
+of Elton in the County of Nottingham, againſt William Claytor of the ſame Town.</head>
+            <p>
+               <hi>William Claytor</hi> being a Farmer, painfully labouring to provide for his
+Family, and to pay ſuch Rent as was due unto the Owner of the
+Farm, the Lord gave an increaſe to the labour of his hands, &amp; bleſ<g ref="char:EOLhyphen"/>ſed
+it, and his corn and cattel increaſed, of which increaſe the ſaid
+Prieſt demanded a Tenth part, which he calls his Tythes, but unto his demand
+the ſaid <hi>William</hi> could not conſent, knowing that it was the fruit of his own la<g ref="char:EOLhyphen"/>bor
+which God had increaſed unto him, and that the Prieſt had neither been at
+any charge nor taken any pains about it; And being alſo convinced by the light
+of Chriſt in his own conſcience that both the Law and the Prieſthood was chan<g ref="char:EOLhyphen"/>ged
+under which Tythes were paid and received, and that the Subſtance being
+come, all ſhadows are to ceaſe, and that the Goſpel is free, and to be preached
+freely, the ſaid <hi>William</hi> could not for conſcience ſake ſatisfie the Prieſt, to give
+him that part which he calls his Tythes. So the Prieſt ſent for a <hi>Sub-poena</hi> out of
+the Exchequer to cauſe the ſaid <hi>William</hi> to appear in that place in his own per<g ref="char:EOLhyphen"/>ſon,
+to anſwer what the Prieſt ſhould object againſt him; and the ſaid <hi>William</hi>
+appeared to have anſwered in the Truth, but his appearance would not be ta<g ref="char:EOLhyphen"/>ken
+without an Attorny to appear for him, though he was commanded to ap<g ref="char:EOLhyphen"/>pear
+in his own perſon upon pain of a great ſum of mony, and he having per<g ref="char:EOLhyphen"/>formed
+on his part what was required, and being there as he was commanded
+to anſwer for himſelf, he had not freedom to employ another to do that which
+he was commanded to do himſelf, and was free to do it, and for that end went
+near upon an hundred miles; But deceit not receiving Truth, the ſaid <hi>William</hi>
+was ſent to the <hi>Fleet,</hi> (a priſon in <hi>London</hi>) and was kept a priſoner for the ſpace
+of two years, during which time the Prieſt made ſpoil of his goods, and took &amp;
+carried away his corn from off his ground by a cart load together from one land
+before it was ſet on the cock, ſo greedy was the beaſt of his prey, and the devou<g ref="char:EOLhyphen"/>rer
+to make ſpoil, neither regarding God nor man. Let the Scripture be ſearch<g ref="char:EOLhyphen"/>ed
+and this man tried in the ſpirit of Truth, and it will be plainly ſeen unto
+whom he is like, not like a Miniſter of Chriſt (who laboured with his own
+hands to make the Goſpel without charge) but like a greedy dumb dog that
+can never have enough, ſeeking to devour and deſtroy and murther the inno<g ref="char:EOLhyphen"/>cent;
+and after all this is done, and that the ſaid <hi>William</hi> had been a Priſon<g ref="char:EOLhyphen"/>er
+two years, the Prieſt procured a <hi>Habeas Corpus,</hi> and removed the body of
+the ſaid <hi>William</hi> to the Common Pleas Bar, and there declared againſt him for
+38 <hi>l. 10 s.</hi> debt, when he had made ſpoil of his goods at his own pleaſure, and
+the ſaid <hi>William</hi> anſwered that he did not ow him any thing. So he was retur<g ref="char:EOLhyphen"/>ned
+into the priſon again, and did from that time continue a priſoner about a
+year and a quarter longer, and then the Prieſt proceeded againſt him at the
+Common Law, and brought down a Trial which was tried at the Aſſizes held at
+<hi>Nottingham</hi> in the year 16<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9. and thither the Prieſt brought a man whoſe name
+is <hi>Richard Horſe-poole,</hi> and he ſwore that the Prieſt was damnified for want of his
+Tythes to the value of 7 <hi>l.</hi> So the Jury who was to try the matter they gave un<g ref="char:EOLhyphen"/>to
+the Prieſt 20 <hi>l.</hi> and there could be no witneſſe heard of the ſaid <hi>Williams</hi> part,
+though there were ſome ready to have given crue evidence, who knew well the
+ſpoil of goods the Prieſt had made in taking and carrying them away. Then
+the Prieſt proceeded upon this unjuſt verdict, and was now minded for his prey,
+and two Bayliffs came on the Prieſts behalf, whoſe names are <hi>George Miller</hi> and
+<hi>Robert Miller,</hi> who are like minded with the Prieſt to devour at once, and theſe
+two men upon the 14. day of the ninth month, 1659. ſeiſed upon the goods &amp;
+chattels of the ſaid <hi>William,</hi> and took and drove a way eighteen head of
+Cattel which the ſaid <hi>William</hi> valued truly to be worth threeſcore pounds. So the
+Bayliffs procured one <hi>William Bartrum</hi> and <hi>Bryan Goodwin, William Oliver</hi> and
+<hi>Thomas Rick,</hi> who were ready to be like minded with them, and theſe men va<g ref="char:EOLhyphen"/>lued
+the goods ſo taken by the Bayliffs to be worth but ſix and twenty pounds,
+at which rate they paſſed, and the Bayliffs proceeded to make ſale of them, and
+ſold them at Ale-houſes, and never came at any Market with them. And after
+they had thus finiſhed the miſchief of their hearts as far as they were ſuffered,
+they brought 7 of the cattel back again when they had wronged them ſeven
+or eight dayes, which the ſaid <hi>William</hi> valued to be worth eighteen pounds;
+So that they kept eleven Cattel which were worth two and fourty pounds.
+Let all who have the ſence of Gods fear in their hearts conſider this ſoberly, and
+weigh it coolly, and it will appear to be the Devils work from the beginning, for
+a man to be ſued for denying an unjuſt demand, and then caſt into priſon
+becauſe he could not anſwer deceit, and then kept a Priſoner three years and
+a quarter, and during that time the Prieſt ſpoiling his goods, and then declares
+againſt him for eight and thirty pounds ten ſhillings debt, and when it came
+to be proved could not prove any debt, but a man falſely ſwears to ſeven
+pound dammage for Tythes, and the Jury made that up twenty pounds for
+the Prieſt, and the Bayliffs made it up too and forty pounds, and thus is the
+innocent made a prey unto the teeth of the ungodly; And both Prieſt, Judge,
+Jury, ſwearer, lyar, Bayliffs and praiſers all devouring by conſent, and all
+like minded in exerciſing cruelty, and all muſt periſh together without ſpeedy
+repentance, for a wicked and an ungodly generation you are, whom the
+Lord is ſpewing out, who delight your ſelves in committing ſuch filthy and
+horrible things as theſe are; what will ye do in the end which is haſting
+upon you all, when the Lord will enquire after all your doings, and that you
+muſt come before Him to give an account, what then will ye do, and where
+will you hide your ſelves to eſcape the wrath of Him who Judges in Truth and
+righteouſneſs? there will not be a hiding place found for you, neither amongſt
+the Rocks nor under the mountains, but the terrible day of the Lord will
+come upon you, and the fierce wrath of the Lord will overtake you, and his
+indignation will take hold upon you, and a juſt recompence of reward will he
+give unto you according to your deeds, and this is to you all from firſt to laſt
+who have acted thus cruelly without ſhewing mercy; You may here read what is
+brought force by you, <hi>O</hi> ye Prieſts of <hi>Eng.</hi> here is your fruit, &amp; by it are you known
+to be a Troop of Robbers, falſe prophets and Deceivers; We do not delight to
+lay open your filthineſſe, but that you may ſee your ſelves and be aſhamed, and
+for the ſake of the ſimple who are following of you and deceived by you, that
+they may come out from amongſt you, and eſcape the judgement that is com<g ref="char:EOLhyphen"/>ing
+upon you. And thou Prieſt <hi>Williamſon,</hi> there needs no proof be brought a<g ref="char:EOLhyphen"/>gainſt
+thee, for thou haſt uncovered thy ſelf to thy ſhame for ever, and haſt
+made thy ſelf manifeſt what thou art, and the fruits brought forth by thee do
+witneſſe againſt thee that thou art not of Chriſts ſending, He ſends forth his as
+Lambs among Wolves, but thou art come forth a Wolf among Lambs, There<g ref="char:EOLhyphen"/>fore
+repent of the evil of thy doings, and reſtore that which thou haſt wrong<g ref="char:EOLhyphen"/>fully
+cauſed to be taken away by violence, for the cry of the oppreſſed and the
+Family of the Innocent will riſe up in judgement againſt thee, and the Judge
+of all the earth will do right unto thee, and repay thee according to what thou
+haſt done, and judgement without mercy will the Lord give unto thee, and hea<g ref="char:EOLhyphen"/>vie
+will his ſtroaks fall upon thee becauſe thou haſt ſhewed no mercy.</p>
+            <p>O ye Rulers of <hi>England</hi> who have now power in your hands to remove theſe
+oppreſſions, and take off theſe burdens which lie ſo heavily upon the innocent,
+the cry is exceeding great, put it not from you, nor do not neglect it any
+longer, but ſet your hearts to do the work of the Lord, and take off the yoke
+from the necks of his People, and then will the Lord be with you, and his
+Arm will he make bare for you, and all your enemies ſhall fall before you, and
+none ſhall proſper that riſe up againſt you; But if you be double minded, and
+neglect the work of the Lord, and ſeek to exalt your ſelves and fear the faces
+of men, the Lord will withdraw from you, and your enemies will prevail over
+you, and you will be rooted out as others have been before you, for curſed are
+all that do the work of the Lord negligently; Therefore with boldneſs ſhew
+your ſelves in the face of all your enemies, and ariſe in the Power of the Lord
+God, that your hands may be ſtrengthened to take off all theſe burthens which
+make the innocent to groan under them, and let not any thing ſtand that is
+contrary to the Truth of God, but ſtrike it all down, that all whoſe faces are
+<hi>Sion</hi>-wards may walk on their way rejoycing, being freed from all oppreſſion,
+and by your Government defended from all injury and cruelty either to their
+Perſons or Eſtates, That ſo the exerciſe of their tender Conſciences may not
+be bowed down, nor any come into ſufferings for it; But all may ſtand in their
+Freedom towards the Lord, and that none may exerciſe Lordſhip over them;
+And ſo all being peaceably affected towards the Nation, all may ſtand in their
+Freedom towards the Lord, and that no Law may ſtand to compell or force
+the tender Conſcience of any; This is that which is your great work which
+in the integrity of your heart you are to perform unto the Lord without delay<g ref="char:EOLhyphen"/>ing,
+and then will the Lord be on your ſide and juſtifie you, and what then need
+you fear who riſes up againſt you to condemn you; ſo let not your hearts be
+feeble, nor your hands ſlack, but be you faithful unto God, and in his
+ſtrength go on and proſper, and the Lord will be with you, and he will ſtand
+by you againſt all that ſhall oppoſe you, and give you the heads of all your
+enemies to Reign over.</p>
+            <p>This is publiſhed for no other end but to manifeſt Truth and lay open deceit, that the
+Rulers of the Nation may ſee the Government, and what it is, and the Lawes,
+and how they are executed. And that all people may ſee what a Miniſtry there is,
+and what their way is, and how they are upheld and maintained, and in what
+cruelty they do compell it, that all theſe abominations may be rooted out from the
+earth, that ſuch a Goverment may be changed and ſuch Laws diſannulled, and
+ſuch execution of them repealed, and ſuch a Miniſtry removed, that all ſuch ways
+may be altered, and ſuch a maintenance raced out, never more to be remembred,
+that ſo all cruelty, Tyranny and oppreſſion may ceaſe, and Truth and equity ſet up
+and exalted, that he alone may Reign over all who will not give his glory to
+another.</p>
+            <closer>
+               <signed>WILLIAM SMITH.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
